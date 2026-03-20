@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asd\\sort_algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73572280-0F9E-441A-9AEE-E29F1F5BCD14}|quick_sort\\quick_sort.vcxproj|E:\\asd\\sort_algorithms\\quick_sort\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73572280-0F9E-441A-9AEE-E29F1F5BCD14}|quick_sort\\quick_sort.vcxproj|solutionrelative:quick_sort\\quick_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD64140-FE8C-4C53-9C29-C1348B58D3FB}|merge_sort\\merge_sort.vcxproj|E:\\asd\\sort_algorithms\\merge_sort\\merge_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DD64140-FE8C-4C53-9C29-C1348B58D3FB}|merge_sort\\merge_sort.vcxproj|solutionrelative:merge_sort\\merge_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371617D0-8687-4801-81EF-9BD6E98A6152}|selection_sort\\selection_sort.vcxproj|E:\\asd\\sort_algorithms\\selection_sort\\selection_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371617D0-8687-4801-81EF-9BD6E98A6152}|selection_sort\\selection_sort.vcxproj|solutionrelative:selection_sort\\selection_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0230804C-D9BB-416B-8834-560EBB04EBB4}|bubble_sort\\bubble_sort.vcxproj|E:\\asd\\sort_algorithms\\bubble_sort\\bubble_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0230804C-D9BB-416B-8834-560EBB04EBB4}|bubble_sort\\bubble_sort.vcxproj|solutionrelative:bubble_sort\\bubble_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C230DA-B432-4D5A-B64B-D241234AFBAC}|insertion_sort\\insertion_sort.vcxproj|E:\\asd\\sort_algorithms\\insertion_sort\\insertion_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C230DA-B432-4D5A-B64B-D241234AFBAC}|insertion_sort\\insertion_sort.vcxproj|solutionrelative:insertion_sort\\insertion_sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quick_sort.cpp",
+              "DocumentMoniker": "E:\\asd\\sort_algorithms\\quick_sort\\quick_sort.cpp",
+              "RelativeDocumentMoniker": "quick_sort\\quick_sort.cpp",
+              "ToolTip": "E:\\asd\\sort_algorithms\\quick_sort\\quick_sort.cpp*",
+              "RelativeToolTip": "quick_sort\\quick_sort.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T19:35:11.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "merge_sort.cpp",
+              "DocumentMoniker": "E:\\asd\\sort_algorithms\\merge_sort\\merge_sort.cpp",
+              "RelativeDocumentMoniker": "merge_sort\\merge_sort.cpp",
+              "ToolTip": "E:\\asd\\sort_algorithms\\merge_sort\\merge_sort.cpp",
+              "RelativeToolTip": "merge_sort\\merge_sort.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T18:41:06.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "selection_sort.cpp",
+              "DocumentMoniker": "E:\\asd\\sort_algorithms\\selection_sort\\selection_sort.cpp",
+              "RelativeDocumentMoniker": "selection_sort\\selection_sort.cpp",
+              "ToolTip": "E:\\asd\\sort_algorithms\\selection_sort\\selection_sort.cpp",
+              "RelativeToolTip": "selection_sort\\selection_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T18:27:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "insertion_sort.cpp",
+              "DocumentMoniker": "E:\\asd\\sort_algorithms\\insertion_sort\\insertion_sort.cpp",
+              "RelativeDocumentMoniker": "insertion_sort\\insertion_sort.cpp",
+              "ToolTip": "E:\\asd\\sort_algorithms\\insertion_sort\\insertion_sort.cpp",
+              "RelativeToolTip": "insertion_sort\\insertion_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T18:21:27.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bubble_sort.cpp",
+              "DocumentMoniker": "E:\\asd\\sort_algorithms\\bubble_sort\\bubble_sort.cpp",
+              "RelativeDocumentMoniker": "bubble_sort\\bubble_sort.cpp",
+              "ToolTip": "E:\\asd\\sort_algorithms\\bubble_sort\\bubble_sort.cpp",
+              "RelativeToolTip": "bubble_sort\\bubble_sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T17:55:29.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asd\\lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C8F11-CF02-4EBA-8148-39DA2C5BBE88}|ex04\\ex04.vcxproj|E:\\asd\\lab04\\ex04\\ex04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B75C8F11-CF02-4EBA-8148-39DA2C5BBE88}|ex04\\ex04.vcxproj|solutionrelative:ex04\\ex04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B473B-1128-40C6-8831-9413587E8FCF}|ex03\\ex03.vcxproj|E:\\asd\\lab04\\ex03\\ex03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C17B473B-1128-40C6-8831-9413587E8FCF}|ex03\\ex03.vcxproj|solutionrelative:ex03\\ex03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C8FB27-2592-41A3-A9EB-1693F6D77FEB}|ex01\\ex01.vcxproj|E:\\asd\\lab04\\ex01\\ex01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8C8FB27-2592-41A3-A9EB-1693F6D77FEB}|ex01\\ex01.vcxproj|solutionrelative:ex01\\ex01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE078F2F-287A-41D0-AF83-7E1532C2EF34}|ex02\\ex02.vcxproj|E:\\asd\\lab04\\ex02\\ex02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE078F2F-287A-41D0-AF83-7E1532C2EF34}|ex02\\ex02.vcxproj|solutionrelative:ex02\\ex02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex04.cpp",
+              "DocumentMoniker": "E:\\asd\\lab04\\ex04\\ex04.cpp",
+              "RelativeDocumentMoniker": "ex04\\ex04.cpp",
+              "ToolTip": "E:\\asd\\lab04\\ex04\\ex04.cpp*",
+              "RelativeToolTip": "ex04\\ex04.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T07:02:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex03.cpp",
+              "DocumentMoniker": "E:\\asd\\lab04\\ex03\\ex03.cpp",
+              "RelativeDocumentMoniker": "ex03\\ex03.cpp",
+              "ToolTip": "E:\\asd\\lab04\\ex03\\ex03.cpp",
+              "RelativeToolTip": "ex03\\ex03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T06:54:57.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex02.cpp",
+              "DocumentMoniker": "E:\\asd\\lab04\\ex02\\ex02.cpp",
+              "RelativeDocumentMoniker": "ex02\\ex02.cpp",
+              "ToolTip": "E:\\asd\\lab04\\ex02\\ex02.cpp",
+              "RelativeToolTip": "ex02\\ex02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T06:51:21.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex01.cpp",
+              "DocumentMoniker": "E:\\asd\\lab04\\ex01\\ex01.cpp",
+              "RelativeDocumentMoniker": "ex01\\ex01.cpp",
+              "ToolTip": "E:\\asd\\lab04\\ex01\\ex01.cpp",
+              "RelativeToolTip": "ex01\\ex01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T06:36:05.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
