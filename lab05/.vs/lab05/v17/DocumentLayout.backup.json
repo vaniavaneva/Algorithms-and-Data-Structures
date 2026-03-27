@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E5C8B-E0CC-44E8-B482-B75401095B24}|ex03\\ex03.vcxproj|E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex03\\ex03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C73E5C8B-E0CC-44E8-B482-B75401095B24}|ex03\\ex03.vcxproj|solutionrelative:ex03\\ex03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3F5D30-38FF-4656-B98A-BE2E41C4367E}|ex01\\ex01.vcxproj|E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex01\\ex01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE3F5D30-38FF-4656-B98A-BE2E41C4367E}|ex01\\ex01.vcxproj|solutionrelative:ex01\\ex01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC88565-2CDE-4F2E-B39A-AA8BDC124904}|ex02\\ex02.vcxproj|E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex02\\ex02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DC88565-2CDE-4F2E-B39A-AA8BDC124904}|ex02\\ex02.vcxproj|solutionrelative:ex02\\ex02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex03.cpp",
+              "DocumentMoniker": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex03\\ex03.cpp",
+              "RelativeDocumentMoniker": "ex03\\ex03.cpp",
+              "ToolTip": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex03\\ex03.cpp*",
+              "RelativeToolTip": "ex03\\ex03.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T07:19:30.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex02.cpp",
+              "DocumentMoniker": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex02\\ex02.cpp",
+              "RelativeDocumentMoniker": "ex02\\ex02.cpp",
+              "ToolTip": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex02\\ex02.cpp",
+              "RelativeToolTip": "ex02\\ex02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T06:47:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex01.cpp",
+              "DocumentMoniker": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex01\\ex01.cpp",
+              "RelativeDocumentMoniker": "ex01\\ex01.cpp",
+              "ToolTip": "E:\\repos\\Algorithms-and-Data-Structures\\lab05\\ex01\\ex01.cpp",
+              "RelativeToolTip": "ex01\\ex01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T06:28:36.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
